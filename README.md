@@ -4,7 +4,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://mirthularavichandran.github.io/Netflix-HomePage/" alt="project-screenshot" width="400" height="400/">
+![image](https://github.com/MirthulaRavichandran/Netflix-HomePage/assets/140338940/64f1030f-97d5-49e6-98bb-564336c3b01d)
+
 
   
   
